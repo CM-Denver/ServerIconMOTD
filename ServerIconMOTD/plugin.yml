@@ -1,0 +1,7 @@
+version: 1.0
+name: ServerIconMOTD
+main: com.william.plugin.Main
+
+author: me
+description: Sets a custom message of the day, server icon, and player count!
+
